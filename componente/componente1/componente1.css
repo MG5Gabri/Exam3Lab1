@@ -1,0 +1,16 @@
+.divC1 {
+    display: grid;
+    grid-template-rows: 4rem 1fr;
+    background-color: beige;
+}
+.h1C1 {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+img {
+    padding: 1rem;
+    width: 100%;
+    height: 12rem;
+    border-radius: 2rem;
+}
