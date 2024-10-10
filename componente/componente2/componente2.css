@@ -1,0 +1,29 @@
+.divC2 {
+    display: grid;
+    grid-template-rows: 4rem 1fr;
+    background-color: beige;
+}
+.h2C2 {
+    font-size: 2rem;
+    padding: 1rem;
+}
+.contactForm{
+    padding: 1rem;
+}
+.contactForm textarea {
+    width: 100%;
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.contactForm button {
+    width: 10rem;
+    margin-left: 25rem;
+    padding: 0.5rem;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
