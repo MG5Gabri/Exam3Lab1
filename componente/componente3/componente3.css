@@ -1,0 +1,13 @@
+.divC3 {
+    display: grid;
+    grid-template-rows: 4rem 1fr;
+    background-color: beige;
+}
+.h3C3 {
+    font-size: 2rem;
+    padding: 1rem;
+}
+.listaCaracteristicas {
+    padding: 1rem 1rem 1rem 4rem;
+    font-size: 1.5rem;
+}
